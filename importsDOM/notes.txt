@@ -1,0 +1,9 @@
+1. need to know what rooms are there
+2. need to know who said what in which rooms
+
+1. rooms table <- who is talking to who
+2. messages table <- who has sent what in a room
+
+
+1. refactored the SQL queuries into functions, organised by their resource group (services)
+2. 
